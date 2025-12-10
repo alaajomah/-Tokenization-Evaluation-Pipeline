@@ -83,5 +83,4 @@ A reflection discussing how the following factors influenced results:
 
 ---
 
-## 📂 Project Structure
 
